@@ -3,6 +3,7 @@
 
 # But don't ignore the following:
 !/work/
+!/work/**
 !/requirements.txt
 !/setup-islip.bat
 !/.gitignore
