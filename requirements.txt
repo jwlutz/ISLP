@@ -1,0 +1,13 @@
+ISLP
+scikit-learn
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+statsmodels
+jupytext
+nbstripout
+nbdime
+pre-commit
+ipykernel

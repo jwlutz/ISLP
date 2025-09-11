@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# But don't ignore the following:
+!/work/
+!/requirements.txt
+!/setup-islip.bat
+!/.gitignore
