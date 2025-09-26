@@ -1,10 +1,10 @@
-# Ignore everything by default
-*
-
-# But don't ignore the following:
-!/work/
-!/work/**
-!/requirements.txt
-!/setup-islip.bat
-!/.gitignore
-!/resources
+.venv
+.vscode
+data/
+figs/
+data
+figs
+notebooks
+notebooks/
+src
+wheels
